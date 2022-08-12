@@ -22,5 +22,6 @@
 	<?php 
 		}
 	?>
+	<footer>Angelo Rafael dos Santos RA = 21108160-5</footer>
 </body>
 </html>
